@@ -1,3 +1,3 @@
 # CalculatorApp
 
-https://user-images.githubusercontent.com/101876344/172683629-15d0e859-703f-4398-804e-2f9d164ddc1f.png
+<img width="354" alt="Captura de Tela 2022-06-08 às 14 47 20" src="https://user-images.githubusercontent.com/101876344/172707224-c96f8846-2417-4761-a590-febaf8afb4bc.png">
